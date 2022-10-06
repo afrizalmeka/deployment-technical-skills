@@ -3,4 +3,4 @@
 3. Membuat Direktori di VSCode
 4. Menaruh Resource
 5. Membuat Env
-6. Mengistall Library dengan PIP
+6. Mengistall Library dengan Conda
